@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/together-privacy/static/css/main.073c9b0a.css",
+    "main.js": "/together-privacy/static/js/main.2f86f7e8.js",
+    "static/js/787.65d47c10.chunk.js": "/together-privacy/static/js/787.65d47c10.chunk.js",
+    "index.html": "/together-privacy/index.html",
+    "main.073c9b0a.css.map": "/together-privacy/static/css/main.073c9b0a.css.map",
+    "main.2f86f7e8.js.map": "/together-privacy/static/js/main.2f86f7e8.js.map",
+    "787.65d47c10.chunk.js.map": "/together-privacy/static/js/787.65d47c10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2f86f7e8.js"
+  ]
+}
